@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    border: cadetblue;
+    border-style: outset;
+}
+
+h2 {
+    text-align: center;
+    border: cadetblue;
+    border-style: outset;
+}
+
+p {
+    text-align: center;
+}
+
+body {
+    background-color: pink;
+}
