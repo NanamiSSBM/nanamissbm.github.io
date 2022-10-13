@@ -17,3 +17,29 @@ p {
 body {
     background-color: pink;
 }
+
+/* Top Bar Configuration*/
+.topbar {
+    background-color: #333;
+    overflow: hidden;
+    text-align: center;
+  }
+  
+  .topbar a {
+    float: center;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 14px;
+  }
+  
+  .topbar a:hover {
+    background-color: darkcyan;
+    color: black;
+  }
+  
+  .topbar a.currentpage {
+    background-color: darkcyan;
+    color: white;
+  }

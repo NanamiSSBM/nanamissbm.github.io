@@ -1,4 +1,3 @@
 # Nanamipuff's Web Startpage
 
-Just a very simple, always being improved upon, browser startpage!
-Intended for my own use and no one elses.
+Just a very simple website that aims to include links to my socials, Melee coaching sign up form, my browser launch page, and some more stuff!
